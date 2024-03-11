@@ -1,4 +1,4 @@
-#Mobile Sponza
+# Mobile Sponza
 A version of Sponza I am optimizing and improving for mobile. I am using it for testing in my own projects, and am making it available here for others to use and as a portfolio piece.
 
 These models are meant for use on mobile phones, tablets, and XR headsets.
