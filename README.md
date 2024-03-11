@@ -6,7 +6,9 @@ These models are meant for use on mobile phones, tablets, and XR headsets.
 All final assets meant for use are in the exports folder. 
 I would have exported a GLTF file, but my Blender keeps crashing when I try to do it.
 
-I plan to include the .blend and .kra files if anyone wants to poke around, but I'm having issues with git lfs.
+I have included the .blend if anyone wants to poke around.
+
+I plan to include the .kra file in the future.
 
 Forked off of this repository - https://github.com/jimmiebergmann/Sponza
 
