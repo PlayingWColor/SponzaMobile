@@ -9,7 +9,8 @@ I would have exported a GLTF file, but my Blender keeps crashing when I try to d
 I plan to include the .blend and .kra files if anyone wants to poke around, but I'm having issues with git lfs.
 
 Forked off of this repository - https://github.com/jimmiebergmann/Sponza
-\r\nI had to remove the fork to upload Git LFS files.
+
+I had to remove the fork to upload Git LFS files.
 
 Below is the Readme from that repository.
 
